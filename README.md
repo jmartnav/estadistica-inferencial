@@ -4,6 +4,8 @@ Consulta el curso completo de estadística creado por Ricardo Alberich, Juan Gab
 
 Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de estadística inferencial del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
+SUMARIO
+
 1. Muestreo estadístico
 2. Estimación puntual
 3. Intervalos de confianza
@@ -14,4 +16,4 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 8. Regresión lineal
 9. Clustering
 
-Y todo con más de 40 horas de vídeo a demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+Y todo con más de **40 horas de vídeo a demanda**, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
